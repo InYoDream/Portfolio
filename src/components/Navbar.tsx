@@ -1,4 +1,4 @@
-
+import React from "react";
 import { VscTerminalBash } from "react-icons/vsc";
 
 export default function Navbar() {
@@ -28,8 +28,8 @@ export default function Navbar() {
 				</div>
 				<div className="flex-1 mr-16 flex justify-center items-center">
 					<div className="flex items-center gap-1">
-						<VscTerminalBash className="text-l" />
-						<h1 className="text-center">Abhishek Kothiyal</h1>
+						<VscTerminalBash className="text-xl" />
+						<h1 className="text-center">Abhishek_Kothiyal/portfolio</h1>
 					</div>
 				</div>
 			</div>
