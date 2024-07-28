@@ -1,6 +1,6 @@
-import React from "react";
-import { CmdHistory } from "../type";
-import ReadOnlyCmdInput from "./ReadOnlyCmdInput";
+
+import { CmdHistory } from "../HistoryTrack";
+import ReadOnlyCmdInput from "./ReadInput";
 interface EnteredCmdProps {
 	enteredCmd: CmdHistory[];
 }

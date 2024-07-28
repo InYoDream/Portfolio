@@ -1,8 +1,8 @@
 import { BiGitBranch } from "react-icons/bi";
-interface CmdStatusProp {
+interface StatusProp {
 	cmd: string;
 }
-export default function CmdStatus({ cmd }: CmdStatusProp) {
+export default function Status({ cmd }: StatusProp) {
 	if (!cmd) {
 		return <></>;
 	}

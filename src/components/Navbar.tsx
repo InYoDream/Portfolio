@@ -1,6 +1,4 @@
-import React from "react";
-import { VscTerminalBash } from "react-icons/vsc";
-
+import { IoTerminal } from "react-icons/io5";
 export default function Navbar() {
 	const boxs = [
 		{
@@ -28,7 +26,7 @@ export default function Navbar() {
 				</div>
 				<div className="flex-1 mr-16 flex justify-center items-center">
 					<div className="flex items-center gap-1">
-						<VscTerminalBash className="text-xl" />
+						<IoTerminal className="text-xl" />
 						<h1 className="text-center">Abhishek_Kothiyal/portfolio</h1>
 					</div>
 				</div>
