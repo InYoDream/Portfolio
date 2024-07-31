@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
-import { IconType } from "react-icons";
 
+import { IconType } from "react-icons";
 interface ProgressBarProps {
 	Icon: IconType;
 	// percentageValue: string;
