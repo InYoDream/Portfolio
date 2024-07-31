@@ -65,7 +65,7 @@ export default function CmdUserInput({ onSubmit }: CmdUserInputProp) {
 						<div className=" w-1 h-5 animate-blink bg-white translate-y-2 -translate-x-3"></div>
 					)}
 					<input
-						className="translate-y-2 -translate-x-3 bg-inherit w-full focus:outline-none placeholder:text-gray-600 placeholder:tracking-wider"
+						className="italic translate-y-2 -translate-x-3 bg-inherit w-full focus:outline-none placeholder:text-gray-600 placeholder:tracking-wider"
 						autoFocus
 						onBlur={() => {
 							setShowFakeCursor(true);

@@ -3,8 +3,8 @@ import { SiTypescript, SiTailwindcss } from "react-icons/si";
 
 export default function About() {
 	const techs = [
-		{ Icon: SiTypescript, color: "text-blue-500", duration: "duration-500" },
-		{ Icon: SiTailwindcss, color: "text-blue-300", duration: "duration-700" },
+		{ Icon: SiTypescript, color: "text-blue-500", duration: "duration-200" },
+		{ Icon: SiTailwindcss, color: "text-blue-300", duration: "duration-500" },
 	];
 	const [animate, setAnimate] = useState(false);
 	useEffect(() => {
