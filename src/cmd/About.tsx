@@ -12,6 +12,10 @@ export default function About() {
 	}, []);
 	return (
 		<div>
+			<h1 className="text-2xl text-yellow-200 animate-reveal-0.5 transform transition-all duration-300">Portfolio ?</h1>
+			<p className="text-lg mb-3 animate-reveal-0.5">
+			A portfolio is your personal showcase. It highlights your skills, experiences, and projects, offering a glimpse into your professional world.
+			</p>
 			<h1 className="text-2xl text-yellow-200 animate-reveal-0.7">
 				Tech stack
 			</h1>
