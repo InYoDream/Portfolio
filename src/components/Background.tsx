@@ -4,7 +4,7 @@ export default function BackgroundImage() {
 	return (
 		<div className="absolute top-0 w-full h-screen -z-10">
 			<LazyLoadImage
-				src="/backwallpapers/forest2.jpg"
+				src="/backwallpapers/blueminimal.jpg"
 				alt="wallpaper"
 				className="h-full w-full object-cover object-center"
 				effect="blur"
