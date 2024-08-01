@@ -8,6 +8,7 @@ import { CmdHistory } from "../HistoryTrack";
 import Projects from "../cmd/Projects";
 
 function CmdRecognize(cmd: string): CmdHistory {
+	// const lowerCaseCmd = cmd.toLowerCase();
 	switch (cmd) {
 		case "help":
 			return {

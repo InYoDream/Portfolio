@@ -29,9 +29,10 @@ export default function TerminalScreen() {
     document.body.addEventListener("keydown", handleKeyEvent);
   }, []);
   const handleSubmit = (cmd: string) => {
+    let lwcase=cmd.toLowerCase();
     setEnteredCmd((currentCmd) => [
       ...currentCmd,
-      { ...CmdRecognize(cmd), time: new Date().toLocaleTimeString() },
+      { ...CmdRecognize(lwcase), time: new Date().toLocaleTimeString() },
     ]);
   };
 
