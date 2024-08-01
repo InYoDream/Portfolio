@@ -7,7 +7,7 @@ export default function Help() {
 		{ cmd: "info", detail: "Show information about me." },
 		{ cmd: "skills", detail: "List all of my skills." },
         { cmd: "projects", detail: "List of my projects." },
-		{ cmd: "con", detail: "List all of the contacts." },
+		{ cmd: "contact", detail: "List all of the contacts." },
 		{ cmd: "about", detail: "To see info about this portfolio" },
         { cmd: "ctrl + c", detail: "To clear terminal history."},
 	];

@@ -28,7 +28,7 @@ function CmdRecognize(cmd: string): CmdHistory {
 				Component: Skills,
 				time: "",
 			};
-		case "con":
+		case "contact":
 			return {
 				cmd,
 				Component: Contact,
