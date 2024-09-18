@@ -3,7 +3,7 @@ export default function Projects(){
     {
       serialNo: 1,
       name: "ChatSphere",
-      desc: "A chat application developed using MERN stack. Migh take some time during your firt visit. Please be patient.",
+      desc: "A chat application developed using MERN stack. Might take some time during your firt visit. Please be patient.",
       link: "https://chatsphere-1-593o.onrender.com/",
       value: "Link"
     },
@@ -11,14 +11,14 @@ export default function Projects(){
       serialNo: 2,
       name: "File Compressor & Decompressor",
       desc: "Helps in compressing & decompressing text files using Huffman algorithm.",
-      link: "https://inyodream.github.io/HuffmanCompression/",
+      link: "https://file-compressor-8mp1om6ku-inyodreams-projects.vercel.app/",
       value: "Link"
     },
     {
       serialNo: 3,
       name: "Spam Message Detector",
       desc: "Uses the Naive Baye's algorithm to train a machine learning model on processed data & make effective predictions for spam messages.",
-      link: "https://spammaildetector-z7wisdxzwr2pkwfcnoerl5.streamlit.app/",
+      link: "https://spammaildetector-z7wisdxzwr2pkwfcnoerl5.streamlit.app/" ,
       value: "Link"
     },
   ];

@@ -41,7 +41,7 @@ export default function Info() {
 			</div>
 			<p>
 				Hi there, I am a final year student of Computer Science Engineering who is passionate about learning technologies.
-				I have a keen interest in Full Stack Web Developement and Machine Learning.
+				I have a keen interest in Full Stack Web Developement and solving algorithmic problems.
 				You can contact me via :  
 			</p>
 			<div className="grid grid-cols-2">
