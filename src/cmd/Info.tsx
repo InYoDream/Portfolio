@@ -27,7 +27,7 @@ export default function Info() {
 		<div className="mt-2 mb-2 w-11/12 mx-auto">
 			<div className="flex items-center gap-3 mb-3 ">
 				<img
-					src="https://media.licdn.com/dms/image/D5603AQGLaR-bGrsgsQ/profile-displayphoto-shrink_400_400/0/1719025525529?e=1727308800&v=beta&t=flVnSBcvmxSoY5X2a_YN8xfqQsZ-3g8RTrD2dM8I0VE"
+					src="https://media.licdn.com/dms/image/v2/D5603AQGLaR-bGrsgsQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719025525529?e=1734566400&v=beta&t=gZKgAmega-4syOeGVmFFSplhdnQh_yOewA80ju3GsFA"
 					alt="Abhishek"
 					className="w-40 h-40 rounded-full border-2 border-yellow-200"
 				/>
